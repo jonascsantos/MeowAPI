@@ -16,6 +16,12 @@ https://cataas.com/doc.html
 
 # Testing 
 
+## Building and running locally
+
+```
+docker-compose build
+docker-compose up
+```
 ## Example URLs
 
 Blur:
@@ -35,12 +41,5 @@ http://localhost:5000/cat?filter=paint&r=7&g=12&b=50
 
 Pixel:
 http://localhost:5000/cat?filter=pixel&pixel=10
-
-## Building and running locally
-
-```
-docker-compose build
-docker-compose up
-```
 
 
