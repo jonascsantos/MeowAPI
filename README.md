@@ -13,6 +13,7 @@ https://cataas.com/doc.html
 - Docker
 - Docker Compose
 - GitHub
+- Azure
 
 # Testing 
 
