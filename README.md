@@ -6,22 +6,22 @@ https://cataas.com/doc.html
 ## Example URLs
 
 Blur:
-http://localhost:5000/cat?filter=blur&blur=20
+https://meowapi.jonascsantos.com/cat?filter=blur&blur=20
 
 Mono:
-http://localhost:5000/cat?filter=mono
+https://meowapi.jonascsantos.com/cat?filter=mono
 
 Sepia:
-http://localhost:5000/cat?filter=sepia
+https://meowapi.jonascsantos.com/cat?filter=sepia
 
 Negative:
-http://localhost:5000/cat?filter=negative
+https://meowapi.jonascsantos.com/cat?filter=negative
 
 Paint:
-http://localhost:5000/cat?filter=paint&r=7&g=12&b=50
+https://meowapi.jonascsantos.com/cat?filter=paint&r=7&g=12&b=50
 
 Pixel:
-http://localhost:5000/cat?filter=pixel&pixel=10
+https://meowapi.jonascsantos.com/cat?filter=pixel&pixel=10
 
 
 ## Building and running locally
